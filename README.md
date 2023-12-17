@@ -22,5 +22,18 @@ GOALS
 probability table
 
 
+# ROUND 2
+
+
+
+GOALS
+1. First recognise all the entity and then recognise all entity types.
+2. Use performance measures to measure the performance of the method used
+3. Calculate F1 score
+4. Generate TF-IDF vector for all the chapters separately
+5. Calculate similarity measure between each pair of chapters
+6. Visualize this as a gradient table with the
+score on it
+
 
 
